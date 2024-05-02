@@ -10,7 +10,7 @@ R.A.P.T.O.R is a system built using Raspberry Pi and OpenCV library for Python, 
 - **User-friendly Interface**: The system provides a simple interface for users to monitor traffic and view statistics.
 
 #### Facebook Post:
-[View Facebook Post](https://www.facebook.com/photo.php?fbid=931526918770539&set=a.560979689158599&type=3)
+{{<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fphoto.php%3Ffbid%3D931526918770539%26set%3Da.560979689158599%26type%3D3&show_text=true&width=500&is_preview=true" width="500" height="722" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>}}
 
 #### Research Publication:
 Link to the [R.A.P.T.O.R Research Publication](https://drive.google.com/file/d/1-j48vZ1sInlDdAZ5-EQw2_BLE_dme0sH/view?pli=1) for detailed information.
